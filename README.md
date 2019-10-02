@@ -19,7 +19,7 @@ Getting Started
 
 Result
 -----------
-<img src="app/src/screen.png" height="534" width="300"/>
+<img src="app/src/screen2.png" height="534" width="300"/>
 
 Support
 -------
